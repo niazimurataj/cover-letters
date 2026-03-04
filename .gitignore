@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.docx
+generate_cover_letter.py
+.claude/
